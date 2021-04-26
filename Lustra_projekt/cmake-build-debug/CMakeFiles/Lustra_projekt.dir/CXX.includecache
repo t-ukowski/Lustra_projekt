@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/main.cpp
+iostream
+-
+map_objects/test.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/test.h
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/test.h
+

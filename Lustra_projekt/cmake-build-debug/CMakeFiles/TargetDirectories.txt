@@ -1,0 +1,3 @@
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
