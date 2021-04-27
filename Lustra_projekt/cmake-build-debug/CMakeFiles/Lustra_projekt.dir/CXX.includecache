@@ -9,8 +9,16 @@
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/main.cpp
 iostream
 -
-map_objects/test.h
-D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/test.h
+map_objects/MO1_Emitter.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h
 
-D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/test.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h
+Facing.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
+MapObject.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
 

@@ -83,6 +83,12 @@
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/main.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.cpp">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

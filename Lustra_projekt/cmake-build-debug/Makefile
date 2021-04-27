@@ -169,6 +169,33 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/map_objects/MO1_Emitter.obj: src/map_objects/MO1_Emitter.cpp.obj
+
+.PHONY : src/map_objects/MO1_Emitter.obj
+
+# target to build an object file
+src/map_objects/MO1_Emitter.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.obj
+.PHONY : src/map_objects/MO1_Emitter.cpp.obj
+
+src/map_objects/MO1_Emitter.i: src/map_objects/MO1_Emitter.cpp.i
+
+.PHONY : src/map_objects/MO1_Emitter.i
+
+# target to preprocess a source file
+src/map_objects/MO1_Emitter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.i
+.PHONY : src/map_objects/MO1_Emitter.cpp.i
+
+src/map_objects/MO1_Emitter.s: src/map_objects/MO1_Emitter.cpp.s
+
+.PHONY : src/map_objects/MO1_Emitter.s
+
+# target to generate assembly for a file
+src/map_objects/MO1_Emitter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.s
+.PHONY : src/map_objects/MO1_Emitter.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -181,6 +208,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/map_objects/MO1_Emitter.obj
+	@echo ... src/map_objects/MO1_Emitter.i
+	@echo ... src/map_objects/MO1_Emitter.s
 .PHONY : help
 
 

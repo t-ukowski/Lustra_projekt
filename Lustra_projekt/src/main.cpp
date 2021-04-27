@@ -1,13 +1,14 @@
 #include <iostream>
-#include "map_objects/test.h"
+#include "map_objects/MO1_Emitter.h"
+
 
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
 
-    Test first = Test(1);
-    cout << first.getT() << endl;
+    MO1_Emitter emitter(0,1,Facing::NORTH);
+
+    cout <<  "Pierwszy obiekt: x=" << emitter.getX() << " y=" << emitter.getY() <<  " facing=" << ToString(emitter.getFacing());
 
     return 0;
 }
