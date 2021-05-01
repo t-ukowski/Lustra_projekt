@@ -5,6 +5,11 @@
 #ifndef LUSTRA_PROJEKT_MAPOBJECT_H
 #define LUSTRA_PROJEKT_MAPOBJECT_H
 
+#include <string>
+
+#include "Facing.h"
+using std::string;
+using std::to_string;
 
 class MapObject {
 
@@ -12,17 +17,26 @@ protected:
     int x;
     int y;
     Facing facing;
+    int type;
 public:
-    //virtual ~MapObject();
-    virtual int getX() const {
+    virtual ~MapObject();
+    int getX() const {
         return x;
     }
-    virtual int getY() const {
+    int getY() const {
         return y;
     }
-    virtual Facing getFacing() const {
+    Facing getFacing() const {
         return facing;
     }
+    int getType() const {
+        return type;
+    }
+    virtual string toString() const {
+        return to_string(type) + ::toString(facing);
+    }
+
+    virtual void clicked() {};
 };
 
 

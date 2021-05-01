@@ -142,6 +142,33 @@ Lustra_projekt/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/build
 .PHONY : Lustra_projekt/fast
 
+src/engine/Engine.obj: src/engine/Engine.cpp.obj
+
+.PHONY : src/engine/Engine.obj
+
+# target to build an object file
+src/engine/Engine.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj
+.PHONY : src/engine/Engine.cpp.obj
+
+src/engine/Engine.i: src/engine/Engine.cpp.i
+
+.PHONY : src/engine/Engine.i
+
+# target to preprocess a source file
+src/engine/Engine.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.i
+.PHONY : src/engine/Engine.cpp.i
+
+src/engine/Engine.s: src/engine/Engine.cpp.s
+
+.PHONY : src/engine/Engine.s
+
+# target to generate assembly for a file
+src/engine/Engine.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.s
+.PHONY : src/engine/Engine.cpp.s
+
 src/main.obj: src/main.cpp.obj
 
 .PHONY : src/main.obj
@@ -168,6 +195,33 @@ src/main.s: src/main.cpp.s
 src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
+
+src/map/Map.obj: src/map/Map.cpp.obj
+
+.PHONY : src/map/Map.obj
+
+# target to build an object file
+src/map/Map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.obj
+.PHONY : src/map/Map.cpp.obj
+
+src/map/Map.i: src/map/Map.cpp.i
+
+.PHONY : src/map/Map.i
+
+# target to preprocess a source file
+src/map/Map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.i
+.PHONY : src/map/Map.cpp.i
+
+src/map/Map.s: src/map/Map.cpp.s
+
+.PHONY : src/map/Map.s
+
+# target to generate assembly for a file
+src/map/Map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.s
+.PHONY : src/map/Map.cpp.s
 
 src/map_objects/MO1_Emitter.obj: src/map_objects/MO1_Emitter.cpp.obj
 
@@ -196,6 +250,33 @@ src/map_objects/MO1_Emitter.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.s
 .PHONY : src/map_objects/MO1_Emitter.cpp.s
 
+src/map_objects/MapObject.obj: src/map_objects/MapObject.cpp.obj
+
+.PHONY : src/map_objects/MapObject.obj
+
+# target to build an object file
+src/map_objects/MapObject.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.obj
+.PHONY : src/map_objects/MapObject.cpp.obj
+
+src/map_objects/MapObject.i: src/map_objects/MapObject.cpp.i
+
+.PHONY : src/map_objects/MapObject.i
+
+# target to preprocess a source file
+src/map_objects/MapObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.i
+.PHONY : src/map_objects/MapObject.cpp.i
+
+src/map_objects/MapObject.s: src/map_objects/MapObject.cpp.s
+
+.PHONY : src/map_objects/MapObject.s
+
+# target to generate assembly for a file
+src/map_objects/MapObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.s
+.PHONY : src/map_objects/MapObject.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -205,12 +286,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Lustra_projekt
+	@echo ... src/engine/Engine.obj
+	@echo ... src/engine/Engine.i
+	@echo ... src/engine/Engine.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/map/Map.obj
+	@echo ... src/map/Map.i
+	@echo ... src/map/Map.s
 	@echo ... src/map_objects/MO1_Emitter.obj
 	@echo ... src/map_objects/MO1_Emitter.i
 	@echo ... src/map_objects/MO1_Emitter.s
+	@echo ... src/map_objects/MapObject.obj
+	@echo ... src/map_objects/MapObject.i
+	@echo ... src/map_objects/MapObject.s
 .PHONY : help
 
 

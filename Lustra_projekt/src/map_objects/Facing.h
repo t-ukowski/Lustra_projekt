@@ -12,15 +12,15 @@ enum class Facing {
     SOUTH,
     WEST
 };
-inline const char* ToString(Facing f)
+inline const char* toString(Facing f)
 {
     switch (f)
     {
-        case Facing::NORTH: return "NORTH";
-        case Facing::EAST:  return "EAST";
-        case Facing::SOUTH: return "SOUTH";
-        case Facing::WEST:  return "WEST";
-        default:            return "NORTH";
+        case Facing::NORTH: return "N";
+        case Facing::EAST:  return "E";
+        case Facing::SOUTH: return "S";
+        case Facing::WEST:  return "W";
+        default:            return "N";
     }
 }
 

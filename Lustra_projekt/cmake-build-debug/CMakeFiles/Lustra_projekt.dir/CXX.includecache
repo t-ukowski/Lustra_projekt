@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/main.cpp
-iostream
--
-map_objects/MO1_Emitter.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.cpp
+Map.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.h
+../map_objects/MO1_Emitter.h
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.h
+string
+-
+../map_objects/MapObject.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
 
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
 
@@ -21,4 +27,8 @@ MapObject.h
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
 
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
+string
+-
+Facing.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
 

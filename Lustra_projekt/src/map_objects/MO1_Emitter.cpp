@@ -8,4 +8,5 @@ MO1_Emitter::MO1_Emitter(int X, int Y, Facing F) {
     x = X;
     y = Y;
     facing = F;
+    type = 1;
 }
