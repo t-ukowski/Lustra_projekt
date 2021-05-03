@@ -9,12 +9,15 @@ using std::endl;
 
 void Engine::run() {
 
-    /**TEMPORARY**/
-    // remember to add loadEntry()
-    map.loadData();
-    cout << "nowa mapa:" << endl;
-    cout << map.toString() << endl;
+    nextLevel();
 
+}
+
+void Engine::nextLevel() {
+    map.loadData(reader.readNextLevel());
+    /** TEMPORARY **/
+    cout << "Next level:" << endl;
+    cout << map.toString() << endl;
 }
 
 Engine::~Engine() = default;

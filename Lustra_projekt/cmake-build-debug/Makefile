@@ -142,6 +142,60 @@ Lustra_projekt/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/build
 .PHONY : Lustra_projekt/fast
 
+src/csv_reader/CSVReader.obj: src/csv_reader/CSVReader.cpp.obj
+
+.PHONY : src/csv_reader/CSVReader.obj
+
+# target to build an object file
+src/csv_reader/CSVReader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.obj
+.PHONY : src/csv_reader/CSVReader.cpp.obj
+
+src/csv_reader/CSVReader.i: src/csv_reader/CSVReader.cpp.i
+
+.PHONY : src/csv_reader/CSVReader.i
+
+# target to preprocess a source file
+src/csv_reader/CSVReader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.i
+.PHONY : src/csv_reader/CSVReader.cpp.i
+
+src/csv_reader/CSVReader.s: src/csv_reader/CSVReader.cpp.s
+
+.PHONY : src/csv_reader/CSVReader.s
+
+# target to generate assembly for a file
+src/csv_reader/CSVReader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.s
+.PHONY : src/csv_reader/CSVReader.cpp.s
+
+src/csv_reader/LevelList.obj: src/csv_reader/LevelList.cpp.obj
+
+.PHONY : src/csv_reader/LevelList.obj
+
+# target to build an object file
+src/csv_reader/LevelList.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.obj
+.PHONY : src/csv_reader/LevelList.cpp.obj
+
+src/csv_reader/LevelList.i: src/csv_reader/LevelList.cpp.i
+
+.PHONY : src/csv_reader/LevelList.i
+
+# target to preprocess a source file
+src/csv_reader/LevelList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.i
+.PHONY : src/csv_reader/LevelList.cpp.i
+
+src/csv_reader/LevelList.s: src/csv_reader/LevelList.cpp.s
+
+.PHONY : src/csv_reader/LevelList.s
+
+# target to generate assembly for a file
+src/csv_reader/LevelList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.s
+.PHONY : src/csv_reader/LevelList.cpp.s
+
 src/engine/Engine.obj: src/engine/Engine.cpp.obj
 
 .PHONY : src/engine/Engine.obj
@@ -250,6 +304,87 @@ src/map_objects/MO1_Emitter.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.s
 .PHONY : src/map_objects/MO1_Emitter.cpp.s
 
+src/map_objects/MO2_Collector.obj: src/map_objects/MO2_Collector.cpp.obj
+
+.PHONY : src/map_objects/MO2_Collector.obj
+
+# target to build an object file
+src/map_objects/MO2_Collector.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj
+.PHONY : src/map_objects/MO2_Collector.cpp.obj
+
+src/map_objects/MO2_Collector.i: src/map_objects/MO2_Collector.cpp.i
+
+.PHONY : src/map_objects/MO2_Collector.i
+
+# target to preprocess a source file
+src/map_objects/MO2_Collector.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.i
+.PHONY : src/map_objects/MO2_Collector.cpp.i
+
+src/map_objects/MO2_Collector.s: src/map_objects/MO2_Collector.cpp.s
+
+.PHONY : src/map_objects/MO2_Collector.s
+
+# target to generate assembly for a file
+src/map_objects/MO2_Collector.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.s
+.PHONY : src/map_objects/MO2_Collector.cpp.s
+
+src/map_objects/MO3_BasicMirror.obj: src/map_objects/MO3_BasicMirror.cpp.obj
+
+.PHONY : src/map_objects/MO3_BasicMirror.obj
+
+# target to build an object file
+src/map_objects/MO3_BasicMirror.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj
+.PHONY : src/map_objects/MO3_BasicMirror.cpp.obj
+
+src/map_objects/MO3_BasicMirror.i: src/map_objects/MO3_BasicMirror.cpp.i
+
+.PHONY : src/map_objects/MO3_BasicMirror.i
+
+# target to preprocess a source file
+src/map_objects/MO3_BasicMirror.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.i
+.PHONY : src/map_objects/MO3_BasicMirror.cpp.i
+
+src/map_objects/MO3_BasicMirror.s: src/map_objects/MO3_BasicMirror.cpp.s
+
+.PHONY : src/map_objects/MO3_BasicMirror.s
+
+# target to generate assembly for a file
+src/map_objects/MO3_BasicMirror.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.s
+.PHONY : src/map_objects/MO3_BasicMirror.cpp.s
+
+src/map_objects/MO4_Wall.obj: src/map_objects/MO4_Wall.cpp.obj
+
+.PHONY : src/map_objects/MO4_Wall.obj
+
+# target to build an object file
+src/map_objects/MO4_Wall.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj
+.PHONY : src/map_objects/MO4_Wall.cpp.obj
+
+src/map_objects/MO4_Wall.i: src/map_objects/MO4_Wall.cpp.i
+
+.PHONY : src/map_objects/MO4_Wall.i
+
+# target to preprocess a source file
+src/map_objects/MO4_Wall.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.i
+.PHONY : src/map_objects/MO4_Wall.cpp.i
+
+src/map_objects/MO4_Wall.s: src/map_objects/MO4_Wall.cpp.s
+
+.PHONY : src/map_objects/MO4_Wall.s
+
+# target to generate assembly for a file
+src/map_objects/MO4_Wall.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.s
+.PHONY : src/map_objects/MO4_Wall.cpp.s
+
 src/map_objects/MapObject.obj: src/map_objects/MapObject.cpp.obj
 
 .PHONY : src/map_objects/MapObject.obj
@@ -286,6 +421,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Lustra_projekt
+	@echo ... src/csv_reader/CSVReader.obj
+	@echo ... src/csv_reader/CSVReader.i
+	@echo ... src/csv_reader/CSVReader.s
+	@echo ... src/csv_reader/LevelList.obj
+	@echo ... src/csv_reader/LevelList.i
+	@echo ... src/csv_reader/LevelList.s
 	@echo ... src/engine/Engine.obj
 	@echo ... src/engine/Engine.i
 	@echo ... src/engine/Engine.s
@@ -298,6 +439,15 @@ help:
 	@echo ... src/map_objects/MO1_Emitter.obj
 	@echo ... src/map_objects/MO1_Emitter.i
 	@echo ... src/map_objects/MO1_Emitter.s
+	@echo ... src/map_objects/MO2_Collector.obj
+	@echo ... src/map_objects/MO2_Collector.i
+	@echo ... src/map_objects/MO2_Collector.s
+	@echo ... src/map_objects/MO3_BasicMirror.obj
+	@echo ... src/map_objects/MO3_BasicMirror.i
+	@echo ... src/map_objects/MO3_BasicMirror.s
+	@echo ... src/map_objects/MO4_Wall.obj
+	@echo ... src/map_objects/MO4_Wall.i
+	@echo ... src/map_objects/MO4_Wall.s
 	@echo ... src/map_objects/MapObject.obj
 	@echo ... src/map_objects/MapObject.i
 	@echo ... src/map_objects/MapObject.s

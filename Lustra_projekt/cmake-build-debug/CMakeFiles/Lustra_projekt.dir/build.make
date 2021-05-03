@@ -128,9 +128,48 @@ CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.s"
 	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO1_Emitter.cpp -o CMakeFiles\Lustra_projekt.dir\src\map_objects\MO1_Emitter.cpp.s
 
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj: CMakeFiles/Lustra_projekt.dir/flags.make
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj: ../src/map_objects/MO2_Collector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lustra_projekt.dir\src\map_objects\MO2_Collector.cpp.obj -c D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO2_Collector.cpp
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.i"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO2_Collector.cpp > CMakeFiles\Lustra_projekt.dir\src\map_objects\MO2_Collector.cpp.i
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.s"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO2_Collector.cpp -o CMakeFiles\Lustra_projekt.dir\src\map_objects\MO2_Collector.cpp.s
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj: CMakeFiles/Lustra_projekt.dir/flags.make
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj: ../src/map_objects/MO3_BasicMirror.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lustra_projekt.dir\src\map_objects\MO3_BasicMirror.cpp.obj -c D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO3_BasicMirror.cpp
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.i"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO3_BasicMirror.cpp > CMakeFiles\Lustra_projekt.dir\src\map_objects\MO3_BasicMirror.cpp.i
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.s"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO3_BasicMirror.cpp -o CMakeFiles\Lustra_projekt.dir\src\map_objects\MO3_BasicMirror.cpp.s
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj: CMakeFiles/Lustra_projekt.dir/flags.make
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj: ../src/map_objects/MO4_Wall.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lustra_projekt.dir\src\map_objects\MO4_Wall.cpp.obj -c D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO4_Wall.cpp
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.i"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO4_Wall.cpp > CMakeFiles\Lustra_projekt.dir\src\map_objects\MO4_Wall.cpp.i
+
+CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.s"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\map_objects\MO4_Wall.cpp -o CMakeFiles\Lustra_projekt.dir\src\map_objects\MO4_Wall.cpp.s
+
 CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj: CMakeFiles/Lustra_projekt.dir/flags.make
 CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj: ../src/engine/Engine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj"
 	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lustra_projekt.dir\src\engine\Engine.cpp.obj -c D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\engine\Engine.cpp
 
 CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.i: cmake_force
@@ -141,31 +180,67 @@ CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.s"
 	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\engine\Engine.cpp -o CMakeFiles\Lustra_projekt.dir\src\engine\Engine.cpp.s
 
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.obj: CMakeFiles/Lustra_projekt.dir/flags.make
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.obj: ../src/csv_reader/CSVReader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.obj"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lustra_projekt.dir\src\csv_reader\CSVReader.cpp.obj -c D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\csv_reader\CSVReader.cpp
+
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.i"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\csv_reader\CSVReader.cpp > CMakeFiles\Lustra_projekt.dir\src\csv_reader\CSVReader.cpp.i
+
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.s"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\csv_reader\CSVReader.cpp -o CMakeFiles\Lustra_projekt.dir\src\csv_reader\CSVReader.cpp.s
+
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.obj: CMakeFiles/Lustra_projekt.dir/flags.make
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.obj: ../src/csv_reader/LevelList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.obj"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lustra_projekt.dir\src\csv_reader\LevelList.cpp.obj -c D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\csv_reader\LevelList.cpp
+
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.i"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\csv_reader\LevelList.cpp > CMakeFiles\Lustra_projekt.dir\src\csv_reader\LevelList.cpp.i
+
+CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.s"
+	"D:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\src\csv_reader\LevelList.cpp -o CMakeFiles\Lustra_projekt.dir\src\csv_reader\LevelList.cpp.s
+
 # Object files for target Lustra_projekt
 Lustra_projekt_OBJECTS = \
 "CMakeFiles/Lustra_projekt.dir/src/main.cpp.obj" \
 "CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.obj" \
 "CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.obj" \
 "CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.obj" \
-"CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj"
+"CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj" \
+"CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj" \
+"CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj" \
+"CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj" \
+"CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.obj" \
+"CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.obj"
 
 # External object files for target Lustra_projekt
 Lustra_projekt_EXTERNAL_OBJECTS =
 
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/main.cpp.obj
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.obj
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.obj
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.obj
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/build.make
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/linklibs.rsp
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/objects1.rsp
-Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Lustra_projekt.exe"
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/main.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/csv_reader/CSVReader.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/src/csv_reader/LevelList.cpp.obj
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/build.make
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/linklibs.rsp
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/objects1.rsp
+../Lustra_projekt.exe: CMakeFiles/Lustra_projekt.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\STUDIA\SEMESTR_4\C++\Lustra_projekt\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable ..\Lustra_projekt.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lustra_projekt.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/Lustra_projekt.dir/build: Lustra_projekt.exe
+CMakeFiles/Lustra_projekt.dir/build: ../Lustra_projekt.exe
 
 .PHONY : CMakeFiles/Lustra_projekt.dir/build
 

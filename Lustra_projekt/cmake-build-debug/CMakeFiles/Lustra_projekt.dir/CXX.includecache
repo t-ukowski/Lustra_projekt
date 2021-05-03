@@ -7,13 +7,23 @@
 #IncludeRegexTransform: 
 
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.cpp
+iostream
+-
 Map.h
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.h
 ../map_objects/MO1_Emitter.h
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h
+../map_objects/MO2_Collector.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO2_Collector.h
+../map_objects/MO3_BasicMirror.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO3_BasicMirror.h
+../map_objects/MO4_Wall.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO4_Wall.h
 
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.h
 string
+-
+vector
 -
 ../map_objects/MapObject.h
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
@@ -21,6 +31,24 @@ D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
 
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h
+Facing.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
+MapObject.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO2_Collector.h
+Facing.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
+MapObject.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO3_BasicMirror.h
+Facing.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
+MapObject.h
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h
+
+D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO4_Wall.h
 Facing.h
 D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h
 MapObject.h

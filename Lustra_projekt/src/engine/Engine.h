@@ -7,15 +7,18 @@
 
 
 #include "../map/Map.h"
+#include "../csv_reader/CSVReader.h"
 
 class Engine {
     Map map;
+    CSVReader reader;
 
 public:
-    explicit Engine(const Map& M): map(M) {}
+    Engine(const Map& M, CSVReader R): map(M), reader(R) {}
     ~Engine();
 
     void run();
+    void nextLevel();
 };
 
 

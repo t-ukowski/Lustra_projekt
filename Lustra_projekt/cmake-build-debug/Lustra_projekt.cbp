@@ -18,8 +18,8 @@
 				</MakeCommands>
 			</Target>
 			<Target title="Lustra_projekt">
-				<Option output="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/Lustra_projekt.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug"/>
+				<Option output="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/Lustra_projekt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -39,8 +39,8 @@
 				</MakeCommands>
 			</Target>
 			<Target title="Lustra_projekt/fast">
-				<Option output="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/Lustra_projekt.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug"/>
+				<Option output="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/Lustra_projekt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/csv_reader/CSVReader.cpp">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/csv_reader/CSVReader.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/csv_reader/LevelList.cpp">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/csv_reader/LevelList.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/engine/Engine.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
@@ -95,10 +107,31 @@
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO2_Collector.cpp">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO2_Collector.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO3_BasicMirror.cpp">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO3_BasicMirror.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO4_Wall.cpp">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO4_Wall.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.cpp">
