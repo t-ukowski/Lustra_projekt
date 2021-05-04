@@ -24,6 +24,10 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/includes"/>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5"/>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5/include"/>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5/lib/gcc1020_x64_dll/mswud"/>
 					<Add directory="D:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="D:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="D:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -45,6 +49,10 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/includes"/>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5"/>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5/include"/>
+					<Add directory="D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5/lib/gcc1020_x64_dll/mswud"/>
 					<Add directory="D:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="D:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="D:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>

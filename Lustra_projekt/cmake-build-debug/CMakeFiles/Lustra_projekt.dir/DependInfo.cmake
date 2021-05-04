@@ -20,6 +20,10 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../includes"
+  "D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5"
+  "D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5/include"
+  "D:/STUDIA/SEMESTR_4/C++/wxWidgets-3.1.5/lib/gcc1020_x64_dll/mswud"
   )
 
 # Targets to which this target links.

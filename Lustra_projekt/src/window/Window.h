@@ -5,7 +5,7 @@
 #ifndef LUSTRA_PROJEKT_WINDOW_H
 #define LUSTRA_PROJEKT_WINDOW_H
 
-//#include <wx/window.h>
+#include <wx/window.h>
 
 #include "../map/Map.h"
 
