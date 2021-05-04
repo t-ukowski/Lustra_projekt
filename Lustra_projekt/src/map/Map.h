@@ -7,7 +7,7 @@
 
 #include <string>
 #include <vector>
-#include "../map_objects/MapObject.h"
+#include "./map_objects/MapObject.h"
 
 
 class Map {

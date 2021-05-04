@@ -8,13 +8,15 @@
 
 #include "../map/Map.h"
 #include "../csv_reader/CSVReader.h"
+#include "../window/Window.h"
 
 class Engine {
     Map map;
     CSVReader reader;
+    Window window;
 
 public:
-    Engine(const Map& M, CSVReader R): map(M), reader(R) {}
+    Engine(const Map& M, CSVReader R, Window W): map(M), reader(R), window(W) {}
     ~Engine();
 
     void run();

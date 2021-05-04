@@ -9,6 +9,7 @@ using std::endl;
 
 void Engine::run() {
 
+    window.setMap(map);
     nextLevel();
 
 }

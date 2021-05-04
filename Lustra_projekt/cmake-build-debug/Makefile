@@ -277,140 +277,167 @@ src/map/Map.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.s
 .PHONY : src/map/Map.cpp.s
 
-src/map_objects/MO1_Emitter.obj: src/map_objects/MO1_Emitter.cpp.obj
+src/map/map_objects/MO1_Emitter.obj: src/map/map_objects/MO1_Emitter.cpp.obj
 
-.PHONY : src/map_objects/MO1_Emitter.obj
-
-# target to build an object file
-src/map_objects/MO1_Emitter.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.obj
-.PHONY : src/map_objects/MO1_Emitter.cpp.obj
-
-src/map_objects/MO1_Emitter.i: src/map_objects/MO1_Emitter.cpp.i
-
-.PHONY : src/map_objects/MO1_Emitter.i
-
-# target to preprocess a source file
-src/map_objects/MO1_Emitter.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.i
-.PHONY : src/map_objects/MO1_Emitter.cpp.i
-
-src/map_objects/MO1_Emitter.s: src/map_objects/MO1_Emitter.cpp.s
-
-.PHONY : src/map_objects/MO1_Emitter.s
-
-# target to generate assembly for a file
-src/map_objects/MO1_Emitter.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.s
-.PHONY : src/map_objects/MO1_Emitter.cpp.s
-
-src/map_objects/MO2_Collector.obj: src/map_objects/MO2_Collector.cpp.obj
-
-.PHONY : src/map_objects/MO2_Collector.obj
+.PHONY : src/map/map_objects/MO1_Emitter.obj
 
 # target to build an object file
-src/map_objects/MO2_Collector.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj
-.PHONY : src/map_objects/MO2_Collector.cpp.obj
+src/map/map_objects/MO1_Emitter.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO1_Emitter.cpp.obj
+.PHONY : src/map/map_objects/MO1_Emitter.cpp.obj
 
-src/map_objects/MO2_Collector.i: src/map_objects/MO2_Collector.cpp.i
+src/map/map_objects/MO1_Emitter.i: src/map/map_objects/MO1_Emitter.cpp.i
 
-.PHONY : src/map_objects/MO2_Collector.i
+.PHONY : src/map/map_objects/MO1_Emitter.i
 
 # target to preprocess a source file
-src/map_objects/MO2_Collector.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.i
-.PHONY : src/map_objects/MO2_Collector.cpp.i
+src/map/map_objects/MO1_Emitter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO1_Emitter.cpp.i
+.PHONY : src/map/map_objects/MO1_Emitter.cpp.i
 
-src/map_objects/MO2_Collector.s: src/map_objects/MO2_Collector.cpp.s
+src/map/map_objects/MO1_Emitter.s: src/map/map_objects/MO1_Emitter.cpp.s
 
-.PHONY : src/map_objects/MO2_Collector.s
+.PHONY : src/map/map_objects/MO1_Emitter.s
 
 # target to generate assembly for a file
-src/map_objects/MO2_Collector.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.s
-.PHONY : src/map_objects/MO2_Collector.cpp.s
+src/map/map_objects/MO1_Emitter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO1_Emitter.cpp.s
+.PHONY : src/map/map_objects/MO1_Emitter.cpp.s
 
-src/map_objects/MO3_BasicMirror.obj: src/map_objects/MO3_BasicMirror.cpp.obj
+src/map/map_objects/MO2_Collector.obj: src/map/map_objects/MO2_Collector.cpp.obj
 
-.PHONY : src/map_objects/MO3_BasicMirror.obj
+.PHONY : src/map/map_objects/MO2_Collector.obj
 
 # target to build an object file
-src/map_objects/MO3_BasicMirror.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj
-.PHONY : src/map_objects/MO3_BasicMirror.cpp.obj
+src/map/map_objects/MO2_Collector.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO2_Collector.cpp.obj
+.PHONY : src/map/map_objects/MO2_Collector.cpp.obj
 
-src/map_objects/MO3_BasicMirror.i: src/map_objects/MO3_BasicMirror.cpp.i
+src/map/map_objects/MO2_Collector.i: src/map/map_objects/MO2_Collector.cpp.i
 
-.PHONY : src/map_objects/MO3_BasicMirror.i
+.PHONY : src/map/map_objects/MO2_Collector.i
 
 # target to preprocess a source file
-src/map_objects/MO3_BasicMirror.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.i
-.PHONY : src/map_objects/MO3_BasicMirror.cpp.i
+src/map/map_objects/MO2_Collector.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO2_Collector.cpp.i
+.PHONY : src/map/map_objects/MO2_Collector.cpp.i
 
-src/map_objects/MO3_BasicMirror.s: src/map_objects/MO3_BasicMirror.cpp.s
+src/map/map_objects/MO2_Collector.s: src/map/map_objects/MO2_Collector.cpp.s
 
-.PHONY : src/map_objects/MO3_BasicMirror.s
+.PHONY : src/map/map_objects/MO2_Collector.s
 
 # target to generate assembly for a file
-src/map_objects/MO3_BasicMirror.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.s
-.PHONY : src/map_objects/MO3_BasicMirror.cpp.s
+src/map/map_objects/MO2_Collector.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO2_Collector.cpp.s
+.PHONY : src/map/map_objects/MO2_Collector.cpp.s
 
-src/map_objects/MO4_Wall.obj: src/map_objects/MO4_Wall.cpp.obj
+src/map/map_objects/MO3_BasicMirror.obj: src/map/map_objects/MO3_BasicMirror.cpp.obj
 
-.PHONY : src/map_objects/MO4_Wall.obj
+.PHONY : src/map/map_objects/MO3_BasicMirror.obj
 
 # target to build an object file
-src/map_objects/MO4_Wall.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj
-.PHONY : src/map_objects/MO4_Wall.cpp.obj
+src/map/map_objects/MO3_BasicMirror.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO3_BasicMirror.cpp.obj
+.PHONY : src/map/map_objects/MO3_BasicMirror.cpp.obj
 
-src/map_objects/MO4_Wall.i: src/map_objects/MO4_Wall.cpp.i
+src/map/map_objects/MO3_BasicMirror.i: src/map/map_objects/MO3_BasicMirror.cpp.i
 
-.PHONY : src/map_objects/MO4_Wall.i
+.PHONY : src/map/map_objects/MO3_BasicMirror.i
 
 # target to preprocess a source file
-src/map_objects/MO4_Wall.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.i
-.PHONY : src/map_objects/MO4_Wall.cpp.i
+src/map/map_objects/MO3_BasicMirror.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO3_BasicMirror.cpp.i
+.PHONY : src/map/map_objects/MO3_BasicMirror.cpp.i
 
-src/map_objects/MO4_Wall.s: src/map_objects/MO4_Wall.cpp.s
+src/map/map_objects/MO3_BasicMirror.s: src/map/map_objects/MO3_BasicMirror.cpp.s
 
-.PHONY : src/map_objects/MO4_Wall.s
+.PHONY : src/map/map_objects/MO3_BasicMirror.s
 
 # target to generate assembly for a file
-src/map_objects/MO4_Wall.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.s
-.PHONY : src/map_objects/MO4_Wall.cpp.s
+src/map/map_objects/MO3_BasicMirror.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO3_BasicMirror.cpp.s
+.PHONY : src/map/map_objects/MO3_BasicMirror.cpp.s
 
-src/map_objects/MapObject.obj: src/map_objects/MapObject.cpp.obj
+src/map/map_objects/MO4_Wall.obj: src/map/map_objects/MO4_Wall.cpp.obj
 
-.PHONY : src/map_objects/MapObject.obj
+.PHONY : src/map/map_objects/MO4_Wall.obj
 
 # target to build an object file
-src/map_objects/MapObject.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.obj
-.PHONY : src/map_objects/MapObject.cpp.obj
+src/map/map_objects/MO4_Wall.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO4_Wall.cpp.obj
+.PHONY : src/map/map_objects/MO4_Wall.cpp.obj
 
-src/map_objects/MapObject.i: src/map_objects/MapObject.cpp.i
+src/map/map_objects/MO4_Wall.i: src/map/map_objects/MO4_Wall.cpp.i
 
-.PHONY : src/map_objects/MapObject.i
+.PHONY : src/map/map_objects/MO4_Wall.i
 
 # target to preprocess a source file
-src/map_objects/MapObject.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.i
-.PHONY : src/map_objects/MapObject.cpp.i
+src/map/map_objects/MO4_Wall.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO4_Wall.cpp.i
+.PHONY : src/map/map_objects/MO4_Wall.cpp.i
 
-src/map_objects/MapObject.s: src/map_objects/MapObject.cpp.s
+src/map/map_objects/MO4_Wall.s: src/map/map_objects/MO4_Wall.cpp.s
 
-.PHONY : src/map_objects/MapObject.s
+.PHONY : src/map/map_objects/MO4_Wall.s
 
 # target to generate assembly for a file
-src/map_objects/MapObject.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.s
-.PHONY : src/map_objects/MapObject.cpp.s
+src/map/map_objects/MO4_Wall.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO4_Wall.cpp.s
+.PHONY : src/map/map_objects/MO4_Wall.cpp.s
+
+src/map/map_objects/MapObject.obj: src/map/map_objects/MapObject.cpp.obj
+
+.PHONY : src/map/map_objects/MapObject.obj
+
+# target to build an object file
+src/map/map_objects/MapObject.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MapObject.cpp.obj
+.PHONY : src/map/map_objects/MapObject.cpp.obj
+
+src/map/map_objects/MapObject.i: src/map/map_objects/MapObject.cpp.i
+
+.PHONY : src/map/map_objects/MapObject.i
+
+# target to preprocess a source file
+src/map/map_objects/MapObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MapObject.cpp.i
+.PHONY : src/map/map_objects/MapObject.cpp.i
+
+src/map/map_objects/MapObject.s: src/map/map_objects/MapObject.cpp.s
+
+.PHONY : src/map/map_objects/MapObject.s
+
+# target to generate assembly for a file
+src/map/map_objects/MapObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MapObject.cpp.s
+.PHONY : src/map/map_objects/MapObject.cpp.s
+
+src/window/Window.obj: src/window/Window.cpp.obj
+
+.PHONY : src/window/Window.obj
+
+# target to build an object file
+src/window/Window.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/window/Window.cpp.obj
+.PHONY : src/window/Window.cpp.obj
+
+src/window/Window.i: src/window/Window.cpp.i
+
+.PHONY : src/window/Window.i
+
+# target to preprocess a source file
+src/window/Window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/window/Window.cpp.i
+.PHONY : src/window/Window.cpp.i
+
+src/window/Window.s: src/window/Window.cpp.s
+
+.PHONY : src/window/Window.s
+
+# target to generate assembly for a file
+src/window/Window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lustra_projekt.dir\build.make CMakeFiles/Lustra_projekt.dir/src/window/Window.cpp.s
+.PHONY : src/window/Window.cpp.s
 
 # Help Target
 help:
@@ -436,21 +463,24 @@ help:
 	@echo ... src/map/Map.obj
 	@echo ... src/map/Map.i
 	@echo ... src/map/Map.s
-	@echo ... src/map_objects/MO1_Emitter.obj
-	@echo ... src/map_objects/MO1_Emitter.i
-	@echo ... src/map_objects/MO1_Emitter.s
-	@echo ... src/map_objects/MO2_Collector.obj
-	@echo ... src/map_objects/MO2_Collector.i
-	@echo ... src/map_objects/MO2_Collector.s
-	@echo ... src/map_objects/MO3_BasicMirror.obj
-	@echo ... src/map_objects/MO3_BasicMirror.i
-	@echo ... src/map_objects/MO3_BasicMirror.s
-	@echo ... src/map_objects/MO4_Wall.obj
-	@echo ... src/map_objects/MO4_Wall.i
-	@echo ... src/map_objects/MO4_Wall.s
-	@echo ... src/map_objects/MapObject.obj
-	@echo ... src/map_objects/MapObject.i
-	@echo ... src/map_objects/MapObject.s
+	@echo ... src/map/map_objects/MO1_Emitter.obj
+	@echo ... src/map/map_objects/MO1_Emitter.i
+	@echo ... src/map/map_objects/MO1_Emitter.s
+	@echo ... src/map/map_objects/MO2_Collector.obj
+	@echo ... src/map/map_objects/MO2_Collector.i
+	@echo ... src/map/map_objects/MO2_Collector.s
+	@echo ... src/map/map_objects/MO3_BasicMirror.obj
+	@echo ... src/map/map_objects/MO3_BasicMirror.i
+	@echo ... src/map/map_objects/MO3_BasicMirror.s
+	@echo ... src/map/map_objects/MO4_Wall.obj
+	@echo ... src/map/map_objects/MO4_Wall.i
+	@echo ... src/map/map_objects/MO4_Wall.s
+	@echo ... src/map/map_objects/MapObject.obj
+	@echo ... src/map/map_objects/MapObject.i
+	@echo ... src/map/map_objects/MapObject.s
+	@echo ... src/window/Window.obj
+	@echo ... src/window/Window.i
+	@echo ... src/window/Window.s
 .PHONY : help
 
 

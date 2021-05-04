@@ -9,11 +9,12 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/engine/Engine.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/engine/Engine.cpp.obj"
   "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/main.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/main.cpp.obj"
   "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map/Map.cpp.obj"
-  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map_objects/MO1_Emitter.cpp.obj"
-  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO2_Collector.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map_objects/MO2_Collector.cpp.obj"
-  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO3_BasicMirror.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map_objects/MO3_BasicMirror.cpp.obj"
-  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO4_Wall.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map_objects/MO4_Wall.cpp.obj"
-  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map_objects/MapObject.cpp.obj"
+  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO1_Emitter.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO1_Emitter.cpp.obj"
+  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO2_Collector.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO2_Collector.cpp.obj"
+  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO3_BasicMirror.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO3_BasicMirror.cpp.obj"
+  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO4_Wall.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MO4_Wall.cpp.obj"
+  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MapObject.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/map/map_objects/MapObject.cpp.obj"
+  "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/window/Window.cpp" "D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/cmake-build-debug/CMakeFiles/Lustra_projekt.dir/src/window/Window.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

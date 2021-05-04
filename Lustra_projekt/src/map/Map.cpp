@@ -4,10 +4,10 @@
 
 #include <iostream>
 #include "Map.h"
-#include "../map_objects/MO1_Emitter.h"
-#include "../map_objects/MO2_Collector.h"
-#include "../map_objects/MO3_BasicMirror.h"
-#include "../map_objects/MO4_Wall.h"
+#include "./map_objects/MO1_Emitter.h"
+#include "./map_objects/MO2_Collector.h"
+#include "./map_objects/MO3_BasicMirror.h"
+#include "./map_objects/MO4_Wall.h"
 
 Map::Map(int width, int height) {
     levelName = "";

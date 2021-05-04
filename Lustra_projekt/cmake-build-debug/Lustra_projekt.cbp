@@ -107,37 +107,43 @@
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/Map.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/Facing.h">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/Facing.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.cpp">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO1_Emitter.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO1_Emitter.h">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO1_Emitter.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO2_Collector.cpp">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO2_Collector.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO2_Collector.h">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO2_Collector.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO3_BasicMirror.cpp">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO3_BasicMirror.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO3_BasicMirror.h">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO3_BasicMirror.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO4_Wall.cpp">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO4_Wall.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MO4_Wall.h">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MO4_Wall.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.cpp">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MapObject.cpp">
 			<Option target="Lustra_projekt"/>
 		</Unit>
-		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map_objects/MapObject.h">
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/map/map_objects/MapObject.h">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/window/Window.cpp">
+			<Option target="Lustra_projekt"/>
+		</Unit>
+		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/src/window/Window.h">
 			<Option target="Lustra_projekt"/>
 		</Unit>
 		<Unit filename="D:/STUDIA/SEMESTR_4/C++/Lustra_projekt/CMakeLists.txt">
