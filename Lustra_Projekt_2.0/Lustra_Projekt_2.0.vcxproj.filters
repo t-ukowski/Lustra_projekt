@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\csv_reader">
+      <UniqueIdentifier>{5eecdff2-3e51-46f6-9dc9-15537e280b5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\map">
+      <UniqueIdentifier>{6c4b00b2-72ce-41d6-8328-8825b03d034b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\map">
+      <UniqueIdentifier>{4448c98f-983f-4955-87d9-e8df64398791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\csv_reader">
+      <UniqueIdentifier>{1826b456-117d-47a9-b416-6f93bf20d092}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\map\map_objects">
+      <UniqueIdentifier>{5a2e1217-f6e0-40f4-9c89-f1a4ed0d361f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\map\map_objects">
+      <UniqueIdentifier>{89c26f1c-76c4-4472-8d1c-b2089be45d6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\beam&amp;objects">
+      <UniqueIdentifier>{5028a0fa-b682-4ddb-a415-849a22eda36b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\sounds">
+      <UniqueIdentifier>{87a7204b-fea1-42b1-ae1f-0700446ec5f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sounds">
+      <UniqueIdentifier>{1559183a-8606-4d4c-a87d-679ba26819c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\beam&amp;objects">
+      <UniqueIdentifier>{28875f51-0f02-4a8e-91a5-fb9e6bcf01e7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVReader.cpp">
+      <Filter>Source Files\csv_reader</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files\map</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelList.cpp">
+      <Filter>Source Files\csv_reader</Filter>
+    </ClCompile>
+    <ClCompile Include="MO4_Wall.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MO2_Collector.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MO3_BasicMirror.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MO1_Emitter.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MapObject.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectStrings.cpp">
+      <Filter>Source Files\beam&amp;objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MO5_RetractableMirror.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Source Files\sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="MO6_Tunnel.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MO7_SwitchCollectorX.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MO8_SwitchCollectorY.cpp">
+      <Filter>Source Files\map\map_objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files\map</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVReader.h">
+      <Filter>Header Files\csv_reader</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelList.h">
+      <Filter>Header Files\csv_reader</Filter>
+    </ClInclude>
+    <ClInclude Include="Facing.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MO4_Wall.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MO3_BasicMirror.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MO2_Collector.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MO1_Emitter.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MapObject.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BeamAction.h">
+      <Filter>Header Files\beam&amp;objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectStrings.h">
+      <Filter>Header Files\beam&amp;objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MO5_RetractableMirror.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files\sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>Header Files\sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="MO6_Tunnel.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MO7_SwitchCollectorX.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MO8_SwitchCollectorY.h">
+      <Filter>Header Files\map\map_objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
