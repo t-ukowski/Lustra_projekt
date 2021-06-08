@@ -1,0 +1,10 @@
+﻿  Audio.cpp
+  LevelList.cpp
+  MO3_BasicMirror.cpp
+  MO5_RetractableMirror.cpp
+  MO6_Tunnel.cpp
+  MO7_SwitchCollectorX.cpp
+  MO8_SwitchCollectorY.cpp
+  main.cpp
+  Generating Code...
+  Lustra_Projekt_2.0.vcxproj -> D:\STUDIA\SEMESTR_4\C++\Lustra_Projekt_2.0\Debug\Lustra_Projekt_2.0.exe
