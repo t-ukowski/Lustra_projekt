@@ -16,10 +16,7 @@ class MainFrame : public wxFrame
     Map map;
     CSVReader reader;
     ObjectStrings object_strings;
-public:
-
-
-    MainFrame(const wxString& title, const wxPoint& pos, const wxSize& size);
+    
     wxGrid* grid;
     int gridHeight;
     int gridWidth;
@@ -29,6 +26,10 @@ public:
     int stoppingY;
     int toWin;
     int toPlay;
+public:
+
+
+    MainFrame(const wxString& title, const wxPoint& pos, const wxSize& size);
     //wxButton* nextButton;
     
 
